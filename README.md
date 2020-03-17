@@ -7,4 +7,8 @@ Python based audio to text which then emails you the obtained text
 <br>
 # Requirements
 <p>brew install portaudio</p>
-<p>pip install pyaudio</p>
+<p>pip3 install pyaudio</p>
+# Running Script
+<br>
+<br>
+<p>python3 audio-to-text.py</p>
