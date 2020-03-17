@@ -1,4 +1,4 @@
 # Audio to text (Email function included)
 Python based audio to text which then emails you the obtained text
-
-# I'll add the Email function soon, currently the script only captures audio. 
+<p></p>
+I'll add the Email function soon, currently the script only captures audio. 
