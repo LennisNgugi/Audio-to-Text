@@ -12,4 +12,5 @@ Python based audio to text which then emails you the obtained text
 # Running the script
 <p>python3 audio-to-text.py</p>
 <p></p>
+
 ![](Audio.GIF)
