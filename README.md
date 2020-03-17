@@ -9,7 +9,4 @@ Python based audio to text which then emails you the obtained text
 <li>pip3 install pyaudio</li>
 
 # Running the script
-
-<br>
-<br>
 <p>python3 audio-to-text.py</p>
