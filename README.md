@@ -5,8 +5,8 @@ Python based audio to text which then emails you the obtained text
 *I'll add the Email function soon, currently the script only captures audio and converts it to text. 
 
 # Requirements
-<p>brew install portaudio</p>
-<p>pip3 install pyaudio</p>
+<li>brew install portaudio</li>
+<li>pip3 install pyaudio</li>
 # Running Script
 <br>
 <br>
